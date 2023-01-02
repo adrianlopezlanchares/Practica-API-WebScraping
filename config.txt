@@ -1,0 +1,6 @@
+url = "https://api-basketball.p.rapidapi.com/statistics"
+querystring = {"season":"2022-2023","league":"12","team":"133"}
+headers = {
+        "X-RapidAPI-Key": "INSERTAR CLAVE",
+        "X-RapidAPI-Host": "api-basketball.p.rapidapi.com"
+    }
