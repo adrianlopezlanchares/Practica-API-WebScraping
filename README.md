@@ -11,5 +11,6 @@ Finalmente carga los datos en un reporte en formato PDF, donde se ven gráficas 
 la predicción del próximo partido, si se ha podido encontrar una.
 
 Instrucciones de uso:
+
 En la función extraerDatosEquipo(), que hace uso de la API, cambiar el campo de "X-RapidAPI-Key" de la variable 'headers' a su propia clave de la API 
 de RapidAPI. Actualmente en ese campo pone "INSERTAR CLAVE"
